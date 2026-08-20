@@ -18,6 +18,26 @@ Raw ABIDE-II data are not redistributed through this repository. Researchers sho
 
 ABIDE-II repository: https://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html
 
+## Reproducibility
+
+The repository is provided to support reproducibility of the experiments reported in the associated manuscript. Experimental configuration, preprocessing procedures, training strategy, and evaluation procedures are described in the accompanying article and implementation.
+
+The software version associated with the manuscript will be permanently archived through Zenodo.
+
+## Code Availability
+
+The source code is available in this GitHub repository: https://github.com/aarthi-deva/MAP-ASDNet
+
+## Archived release
+
+Zenodo DOI: To be added after the release is archived.
+
+## Citation
+
+If you use this code or framework in your research, please cite the associated MAP-ASDNet article and the archived software release.
+
+Citation information is also provided in the CITATION.cff file.
+
 ## Disclaimer
 
 MAP-ASDNet is intended for research purposes. The framework is not intended to replace professional clinical diagnosis or to be used as a standalone clinical diagnostic system.
