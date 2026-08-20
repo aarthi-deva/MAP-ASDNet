@@ -1,17 +1,20 @@
 cff-version: 1.2.0
-
 message: "If you use this software, please cite the archived MAP-ASDNet release and the associated article."
-
 title: "MAP-ASDNet: A Multi-Slice CNN-BiLSTM Framework with Attention and Phenotypic Fusion for Autism Spectrum Disorder Classification"
+type: software
 
-authors: Aarthi D & Kannimuthi S
+authors:
+  - given-names: "Aarthi"
+    family-names: "D"
+    affiliation: "Department of Computer Science and Engineering, Karpagam College of Engineering, Coimbatore, Tamil Nadu, India 641032"
+
+  - given-names: "Kannimuthu"
+    family-names: "S"
+    affiliation: "Department of Computer Science and Engineering, Karpagam College of Engineering, Coimbatore, Tamil Nadu, India 641032"
 
 version: "1.0.0"
-
 date-released: 2026-08-20
-
-license: MIT
-
+license: "MIT"
 repository-code: "https://github.com/aarthi-deva/MAP-ASDNet"
 
 keywords:
