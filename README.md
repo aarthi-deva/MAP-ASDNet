@@ -33,3 +33,7 @@ MAP-ASDNet/
 │
 └── code/
     └── MAP-ASDNet_code.ipynb
+
+## Disclaimer
+
+MAP-ASDNet is intended for research purposes. The framework is not intended to replace professional clinical diagnosis or to be used as a standalone clinical diagnostic system.
