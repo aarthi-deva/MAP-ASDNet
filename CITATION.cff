@@ -2,7 +2,7 @@ cff-version: 1.2.0
 
 message: "If you use this software, please cite the archived MAP-ASDNet release and the associated article."
 
-title: ""MAP-ASDNet: A Multi-Slice CNN–BiLSTM Framework with Attention and Phenotypic Fusion for Autism Spectrum Disorder Classification"
+title: "MAP-ASDNet: A Multi-Slice CNN–BiLSTM Framework with Attention and Phenotypic Fusion for Autism Spectrum Disorder Classification"
 
 authors: Aarthi D & Kannimuthu S
 
