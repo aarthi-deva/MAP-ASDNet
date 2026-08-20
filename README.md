@@ -16,9 +16,7 @@ ABIDE-II provides multi-site neuroimaging and phenotypic data from individuals w
 
 Raw ABIDE-II data are not redistributed through this repository. Researchers should obtain the dataset directly from the official ABIDE-II repository and comply with the applicable data-access and usage requirements.
 
-ABIDE-II repository:
-
-https://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html
+ABIDE-II repository: https://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html
 
 ## Repository Contents
 
@@ -34,6 +32,9 @@ MAP-ASDNet/
 └── code/
     └── MAP-ASDNet_code.ipynb
 
-## Disclaimer
+
+**## Disclaimer**
 
 MAP-ASDNet is intended for research purposes. The framework is not intended to replace professional clinical diagnosis or to be used as a standalone clinical diagnostic system.
+
+
