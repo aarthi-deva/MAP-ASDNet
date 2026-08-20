@@ -18,6 +18,10 @@ Raw ABIDE-II data are not redistributed through this repository. Researchers sho
 
 ABIDE-II repository: https://fcon_1000.projects.nitrc.org/indi/abide/abide_II.html
 
+## Disclaimer
+
+MAP-ASDNet is intended for research purposes. The framework is not intended to replace professional clinical diagnosis or to be used as a standalone clinical diagnostic system.
+
 ## Repository Contents
 
 The repository includes the implementation used for the MAP-ASDNet experiments together with supporting reproducibility files.
@@ -31,10 +35,3 @@ MAP-ASDNet/
 │
 └── code/
     └── MAP-ASDNet_code.ipynb
-
-
-**## Disclaimer**
-
-MAP-ASDNet is intended for research purposes. The framework is not intended to replace professional clinical diagnosis or to be used as a standalone clinical diagnostic system.
-
-
