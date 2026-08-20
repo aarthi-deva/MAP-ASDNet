@@ -2,9 +2,9 @@ cff-version: 1.2.0
 
 message: "If you use this software, please cite the archived MAP-ASDNet release and the associated article."
 
-title: "MAP-ASDNet: A Multi-Slice CNN–BiLSTM Framework with Attention and Phenotypic Fusion for Autism Spectrum Disorder Classification"
+title: "MAP-ASDNet: A Multi-Slice CNN-BiLSTM Framework with Attention and Phenotypic Fusion for Autism Spectrum Disorder Classification"
 
-authors: Aarthi D & Kannimuthu S
+authors: Aarthi D & Kannimuthi S
 
 version: "1.0.0"
 
@@ -15,12 +15,12 @@ license: MIT
 repository-code: "https://github.com/aarthi-deva/MAP-ASDNet"
 
 keywords:
-  - autism spectrum disorder
-  - structural MRI
-  - ABIDE-II
-  - convolutional neural network
-  - bidirectional LSTM
-  - attention
-  - phenotypic fusion
-  - multi-slice learning
-  - reproducibility
+  - "autism spectrum disorder"
+  - "structural MRI"
+  - "ABIDE-II"
+  - "convolutional neural network"
+  - "bidirectional LSTM"
+  - "attention"
+  - "phenotypic fusion"
+  - "multi-slice learning"
+  - "reproducibility"
