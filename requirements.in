@@ -1,0 +1,13 @@
+# Human-readable direct dependencies.
+# Generate the exact reproducibility lockfile from the FINAL experiment environment:
+#   python -m pip freeze > requirements.txt
+tensorflow
+keras
+numpy
+scikit-learn
+nibabel
+scipy
+statsmodels
+matplotlib
+pandas
+PyYAML

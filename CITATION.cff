@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived MAP-ASDNet release and the associated article."
+title: "MAP-ASDNet: Reproducibility Code for Multi-Slice CNN-BiLSTM ASD Classification"
+authors:
+  - family-names: "REPLACE_WITH_AUTHOR1_FAMILY_NAME"
+    given-names: "REPLACE_WITH_AUTHOR1_GIVEN_NAME"
+  - family-names: "REPLACE_WITH_AUTHOR2_FAMILY_NAME"
+    given-names: "REPLACE_WITH_AUTHOR2_GIVEN_NAME"
+version: "1.0.0"
+date-released: 2026-08-20
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/MAP-ASDNet"
+keywords:
+  - autism spectrum disorder
+  - structural MRI
+  - ABIDE-II
+  - convolutional neural network
+  - bidirectional LSTM
+  - attention
+  - phenotypic fusion
+  - multi-slice learning
+  - reproducibility
